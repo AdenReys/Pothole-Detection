@@ -14,7 +14,7 @@
 
 🔍 Dataset
 
-    Used an annotated pothole dataset (source: [[Link if public](https://public.roboflow.com/object-detection/pothole)]).
+    Used an annotated pothole dataset (source:(https://public.roboflow.com/object-detection/pothole)).
     
     Preprocessed images with augmentation techniques.
     
